@@ -1,0 +1,176 @@
+﻿
+.str-about-section .str-about-content .str-progress-area .barfiller .fill1 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    /*changed*/
+    background: rgb(22, 181, 151);
+    /*width: 217.5px;*/
+    /*transition: width 3s ease-in-out 0s;*/
+    animation-name:progressbar1;
+    animation-duration:3s;
+    animation-fill-mode:forwards;
+
+}
+@keyframes progressbar1{
+    from{
+        width:0px;
+    }
+    to{
+        width:217.5px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .fill2 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    /*changed*/
+    background: rgb(22, 181, 151);
+    /*width: 203px;*/
+    /*transition: width 3s ease-in-out 0s;*/
+    animation-name: progressbar2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes progressbar2 {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 203px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .fill3 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    /*changed*/
+    background: rgb(22, 181, 151);
+    /*width: 261px;*/
+    /*transition: width 3s ease-in-out 0s;*/
+    animation-name: progressbar3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes progressbar3 {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 261px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tipWrap {
+    /*changed*/
+    display: inline;
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip1 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    /*chnaged*/
+    /*left: 193.5px;*/
+    /*transition: left 3s ease-in-out 0s;*/
+    animation-name: tip1;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes tip1 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 193.5px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip2 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    /*chnaged*/
+    /*left: 179px;*/
+    /*transition: left 3s ease-in-out 0s;*/
+    animation-name: tip2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes tip2 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 179px;
+    }
+}
+
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip3 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    /*chnaged*/
+    /*left: 236px;*/
+    /*transition: left 3s ease-in-out 0s;*/
+    animation-name: tip3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes tip3 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 236px;
+    }
+}
+#gallary-box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:-5rem;
+}
+#view{
+    margin-top:3rem;
+    height:35rem;
+    width:45rem;
+}

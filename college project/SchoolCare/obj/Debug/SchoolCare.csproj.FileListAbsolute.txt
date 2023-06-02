@@ -1,0 +1,317 @@
+G:\SchoolCare\SchoolCare\SchoolCare\bin\SchoolCare.dll.config
+G:\SchoolCare\SchoolCare\SchoolCare\bin\SchoolCare.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\SchoolCare.pdb
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csc.exe
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csc.exe.config
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csc.rsp
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csi.exe
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csi.exe.config
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\csi.rsp
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.Managed.Core.targets
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.AppContext.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Collections.Immutable.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Console.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Globalization.Calendars.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.IO.Compression.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.IO.FileSystem.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Net.Http.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Net.Sockets.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Reflection.Metadata.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.ValueTuple.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Xml.XmlDocument.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Xml.XPath.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\vbc.exe
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\vbc.exe.config
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\vbc.rsp
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\VBCSCompiler.exe
+G:\SchoolCare\SchoolCare\SchoolCare\bin\roslyn\VBCSCompiler.exe.config
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Antlr3.Runtime.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Newtonsoft.Json.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Helpers.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Mvc.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Optimization.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Razor.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\WebGrease.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Helpers.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Mvc.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Optimization.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.Razor.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Newtonsoft.Json.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Antlr3.Runtime.pdb
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SchoolCare\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+G:\SchoolCare\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+G:\SchoolCare\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+G:\SchoolCare\SchoolCare\SchoolCare\obj\Debug\SchoolCare.dll
+G:\SchoolCare\SchoolCare\SchoolCare\obj\Debug\SchoolCare.pdb
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.Web.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.ValueTuple.dll
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\ImageProcessor.Web.xml
+G:\SchoolCare\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+G:\SchoolCare\SchoolCare\SchoolCare\bin\System.ValueTuple.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll.config
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.pdb
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\WebGrease.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.xml
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.pdb
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.dll
+D:\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.pdb
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll.config
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.pdb
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\WebGrease.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.xml
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.pdb
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.dll
+D:\Dotpus project\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.pdb
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll.config
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.pdb
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\WebGrease.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.xml
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.pdb
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.dll
+D:\Dotpus project\SchoolWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.pdb
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\SchoolCare.dll.config
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\SchoolCare.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\SchoolCare.pdb
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.Web.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.ValueTuple.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Helpers.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Mvc.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Optimization.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Razor.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\WebGrease.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\ImageProcessor.Web.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.ValueTuple.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Helpers.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Mvc.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Optimization.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.Razor.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\temp\SchoolCare\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Desktop\temp\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\temp\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\temp\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+C:\Users\Acer\Desktop\temp\SchoolCare\obj\Debug\SchoolCare.dll
+C:\Users\Acer\Desktop\temp\SchoolCare\obj\Debug\SchoolCare.pdb
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll.config
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\SchoolCare.pdb
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\WebGrease.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\ImageProcessor.Web.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.ValueTuple.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Helpers.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Mvc.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Optimization.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.Razor.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.dll
+C:\Users\Acer\Music\SchoolCareWebsite\SchoolCareWebsite\SchoolCare\SchoolCare\obj\Debug\SchoolCare.pdb
+C:\Users\Acer\Videos\college project\SchoolCare\bin\SchoolCare.dll.config
+C:\Users\Acer\Videos\college project\SchoolCare\bin\SchoolCare.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\SchoolCare.pdb
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.Plugins.WebP.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.Web.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.ValueTuple.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Helpers.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Mvc.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Optimization.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Razor.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\WebGrease.dll
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.Plugins.WebP.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\ImageProcessor.Web.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.ValueTuple.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Helpers.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Mvc.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Optimization.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.Razor.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Videos\college project\SchoolCare\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Videos\college project\SchoolCare\obj\Debug\SchoolCare.csproj.AssemblyReference.cache
+C:\Users\Acer\Videos\college project\SchoolCare\obj\Debug\SchoolCare.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Videos\college project\SchoolCare\obj\Debug\SchoolCare.csproj.CopyComplete
+C:\Users\Acer\Videos\college project\SchoolCare\obj\Debug\SchoolCare.dll
+C:\Users\Acer\Videos\college project\SchoolCare\obj\Debug\SchoolCare.pdb

@@ -1,0 +1,307 @@
+﻿@using SchoolCare.Models
+@model contact
+@{
+    ViewBag.Title = "Contact";
+}
+
+<!-- Start of breadcurmb section
+      =============================================  -->
+<section id="saasio-breadcurmb-contact" class="saasio-breadcurmb-section">
+    <div class="container">
+        <div class="breadcurmb-title text-center">
+            <h2>Contact </h2>
+        </div>
+        <div class="breadcurmb-item-list text-center ul-li">
+            <ul class="saasio-page-breadcurmb">
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- End of breadcurmb section
+    ============================================= -->
+<!-- Start of Contact page section
+    =============================================  -->
+<section id="sa-contact-page" class="sa-contact-page-2 position-relative inner-page-padding">
+    <div class="bis-google-map">
+        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6209.242755903148!2d-77.04363602434464!3d38.90977276948481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1394992895496" height="590" width="100%"></iframe>
+    </div>
+    <div class="container">
+        <div class="bis-contact-page-content position-relative">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="bis-faq-contact-info-wrap">
+                        <div class="bis-faq-contact-info-title headline pera-content">
+                            <h3>Contact Us </h3>
+                            <p>
+                                On the other hand we denounce righteous indignation moralized bite the HR charms of pleasure.
+                            </p>
+                        </div>
+                        <div class="bis-faq-contact-info">
+                            <div class="info-item-area d-flex align-items-center">
+                                <div class="inner-icon d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                </div>
+                                <div class="inner-text headline pera-content">
+                                    <h4>Office Address, USA</h4>
+                                    <p>
+                                        25/5 Double Street, Texas
+                                        Houston USA
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="info-item-area d-flex align-items-center">
+                                <div class="inner-icon d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-envelope"></i>
+                                </div>
+                                <div class="inner-text headline pera-content">
+                                    <h4>Mail Us</h4>
+                                    <p>support@comp.com</p>
+                                    <p>info@company.com</p>
+                                </div>
+                            </div>
+                            <div class="info-item-area d-flex align-items-center">
+                                <div class="inner-icon d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-phone"></i>
+                                </div>
+                                <div class="inner-text headline pera-content">
+                                    <h4>Phone Call</h4>
+                                    <p>(734) 697-2907</p>
+                                    <p>(843) 971-1906</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="bis-faq-contact-form-area">
+                        <div class="bis-faq-contact-info-title headline pera-content">
+                            <h3>Get In Touch  </h3>
+                            <p>
+                                On the other hand we denounce righteous indignation moralized bite the HR charms of pleasure.
+                            </p>
+                        </div>
+                        <div class="bis-faq-contact-form">
+                            @using (Html.BeginForm("Contact", "Home", FormMethod.Post))
+                            {
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        @Html.TextBoxFor(n => n.Name ,new { type="text",placeholder="Enter your full name",  required="required"})
+                                    </div>
+                                    <div class="col-md-6">
+                                        @Html.TextBoxFor(n => n.Email, new { type = "email", placeholder = "Enter your eamil address",  required="required" })
+                                    </div>
+                                    <div class="col-md-6">
+                                        @Html.TextBoxFor(n => n.Mobile, new { type = "text", placeholder = "Enter your mobile number",  required="required" })
+                                    </div>
+                                    <div class="col-md-6">
+                                        @Html.TextBoxFor(n => n.Subject, new { type = "text", placeholder = "Enter your subject" ,  required="required"})
+                                    </div>
+                                    <div class="col-md-12">
+                                        @Html.TextBoxFor(n => n.Message, new { type = "text", placeholder = "Enter your message",  required="required" })
+                                    </div>
+                                    <div class="sa-contact-inner-btn text-center">
+                                        <button type="submit">Send Message</button>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- End of Contact page section
+    =============================================  -->
+<!-- Start of Faq Feed section
+     =============================================  -->
+<section id="sa_faq" class="sa_faq_feed_section inner-page-padding">
+    <div class="container">
+        <div class="sa_faq_content">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="sa_faq_feed_img">
+                        <div class="dia-exp-img text-center position-relative">
+                            <img src="/Content/assets/img/d-agency/about/ab2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="saas_two_section_title saas2-headline">
+                        <span class="title_tag">Frequent Question</span>
+                        <h2>
+                            FAQ <span>
+                                Question
+                            </span>
+                        </h2>
+                    </div>
+                    <div class="sa_faq_accordion">
+                        <div class="accordion" id="accordionExample">
+                            <div class="ei-faq faq_bg">
+                                <div class="ei-faq-header" id="headingOne">
+                                    <button class="" data-toggle="collapse" data-target="#collapseOne" aria-controls="collapseOne">
+                                        What should I include in App?
+                                    </button>
+                                </div>
+                                <div id="collapseOne" class="collapse show" data-parent="#accordionExample">
+                                    <div class="ei-faq-body">
+                                        Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore. In order to design a mobile app that is going to be module downloaded.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ei-faq">
+                                <div class="ei-faq-header" id="headingtwo">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapsetwo" aria-controls="collapsetwo">
+                                        How does the Moodle app work?
+                                    </button>
+                                </div>
+                                <div id="collapsetwo" class="collapse" data-parent="#accordionExample">
+                                    <div class="ei-faq-body">
+                                        Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore. In order to design a mobile app that is going to be module downloaded.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ei-faq">
+                                <div class="ei-faq-header" id="headingthree">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapsethree" aria-controls="collapsethree">
+                                        Can users choose to install the app?
+                                    </button>
+                                </div>
+                                <div id="collapsethree" class="collapse" data-parent="#accordionExample">
+                                    <div class="ei-faq-body">
+                                        Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore. In order to design a mobile app that is going to be module downloaded.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ei-faq">
+                                <div class="ei-faq-header" id="headingfour">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapsefour" aria-controls="collapsefour">
+                                        How do I disable installed apps?
+                                    </button>
+                                </div>
+                                <div id="collapsefour" class="collapse" data-parent="#accordionExample">
+                                    <div class="ei-faq-body">
+                                        Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore. In order to design a mobile app that is going to be module downloaded.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Faq Feed section
+    =============================================  -->
+<!-- Start of  Faq Question section
+    =============================================  -->
+<section id="sa_fq_question" class="sa_fq_question_section">
+    <div class="container">
+        <div class="saas_two_section_title saas2-headline text-center">
+            <span class="title_tag">Our Most Frequent Question</span>
+            <h2>
+                Frequently <span>
+                    Asked Question
+                </span>
+            </h2>
+        </div>
+        <div class="sa_fq_question_content">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>How much does this project cost?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>How much does this project cost?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>Do I have a warranty?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>How to protect your legal rights under the law?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>How much does this project cost?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="faq-feed-item saas2-headline pera-content">
+                        <h3>Do I have a warranty?</h3>
+                        <p>Neque porro quisquam qui doid lorem ipsum quia dolor sit amet to iconsec tetur adipisci velit. Primis prompta eam eu. Per quod iriante, tollit qualis que urbanitas ei qui. Id liber democritum his. Nam purto inani aliquam no, et vis numquam facilisi. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Faq Question  section
+    =============================================  -->
+
+<section id="str-about" class="str-about-section position-relative">
+    <div class="str-aboutbg1 position-absolute"><img src="~/Content/assets/img/startup/shape/vs1.png" alt=""></div>
+    <div class="str-aboutbg2 position-absolute"><img src="~/Content/img/startup/shape/vs2.png" alt=""></div>
+    <div class="str-aboutbg3 position-absolute"><img src="~/Content/img/startup/shape/vs3.png" alt=""></div>
+    <div class="container">
+        <div class="str-about-content">
+
+            <div class="str-about-feature-area">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="str-about-feature-box clearfix wow fadeFromLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                            <div class="str-about-feature-icon text-center float-left">
+                                <i class="flaticon-null-8"></i>
+                            </div>
+                            <div class="str-about-feature-text str-headline">
+                                <h3>
+                                    Best customer
+                                    support
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="str-about-feature-box clearfix wow fadeFromLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                            <div class="str-about-feature-icon text-center float-left">
+                                <i class="flaticon-null-7"></i>
+                            </div>
+                            <div class="str-about-feature-text str-headline">
+                                <h3>
+                                    Money back
+                                    guarantee
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="str-about-feature-box clearfix wow fadeFromLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="str-about-feature-icon text-center float-left">
+                                <i class="flaticon-null-6"></i>
+                            </div>
+                            <div class="str-about-feature-text str-headline">
+                                <h3>
+                                    Lowest cost
+                                    provider
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

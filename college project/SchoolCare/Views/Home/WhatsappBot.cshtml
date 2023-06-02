@@ -1,0 +1,302 @@
+﻿@using SchoolCare.Models
+@model whatsapp
+@{
+    ViewBag.Title = "Whatsapp Group";
+}
+
+
+<div class="apbc-hero-slider">
+    <div class="apbc-single-item bot-image-banner-container" data-background="Content/gallaryImage/bot1.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="apbc-slide-left">
+                        <div class="apbc-headline">
+                            <h1>Whatsapp<br>    Chat</h1>
+                        </div>
+                        <div class="apbc-pera-txt">
+                            <p>Join our whatsapp group to clear your all doubts from our experts. <br>Just click join now to get the link</p>
+                            <img id="bot-image-banner" src="~/Content/gallaryImage/logo5.png" />
+                            <!-- Button trigger modal -->
+                            <button type="button" id="join-group" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                                <i class="fa-brands fa-whatsapp"></i> Join Now
+                            </button>
+
+                            <!-- Modal -->
+                            @using (Html.BeginForm("WhatsappBot", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                            {
+                            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content whatsapp-bot-popup">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalLabel">Enter your email below</h5>
+                                      
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            @Html.TextBoxFor(n => n.Email, new { type = "email", id = "whatsapp-input", required = "required",placeholder="Enter your email here...." })
+                                        </div>
+                                        <div class="modal-footer">
+                                            <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">-->@*Close*@<!--</button>-->
+                                            <button type="submit" class="btn btn-primary getlink">Get link</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>}
+                        </div>
+                        @*<div class="apbc-primary-btn">
+                                <a href="#">Our Service<span><i class="fas fa-arrow-right"></i></span></a>
+                            </div>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- Hero Slider Area -->
+<!--<section class="aplpg-hero-slider-area" id="aplpg_banner">
+    <div class="aplpg-hero-single-slide" data-background="Content/assets/img/digital_f/bg/bn-bg2.png">
+        <div class="aplpg-social-left">
+
+
+        </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="aplpg-slide-left">
+                        <div class="aplpg-headline">
+                            <h1>Whatsapp Chatbot</h1>
+                        </div>
+                        <div class="aplpg-pera-txt">
+                            <p>Meet SaaSio. The simple, intuitive and powerful app to manage your work. <br>Explore app of the next generation.</p>
+                        </div>
+                        <div class="aplpg-slider-form">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="aplpg-mobile-mockup mobile-image-container bot-image-banner-container">-->
+@*<img class="mobile-image" src="~/Content/gallaryImage/smartphone.png" alt="">*@
+<!--<img id="bot-image-banner" src="~/Content/gallaryImage/logo5.png" />
+                        <span class="aplpg-dot-object" id="dot">
+                            <img src="/Content/assets/img/app-landing-2/dot-object.png" alt="">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>-->
+<!-- Hero Slider End -->
+<!-- Start of compare section
+      ============================================= -->
+@*<section id="compare-1" class="compare_section">*@
+
+<section class="aplpg-process-section" id="aplpg_process">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-2">
+                <div class="aplpg-title-area text-center wow fadeInUp">
+                    <span class="aplpg-subtitle">How it works</span>
+                    <div class="aplpg-headline p-30">
+                        <h3>How To It Work </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container">
+    <div class="compare_content_item">
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <div class="compare_content">
+                    <div class="compare_title saas-modern-headline pera-content">
+                        <h2>
+                            Automatic Whatsapp chatbots
+                        </h2>
+                        <p>Be Available 24/7 by Automating</p>
+                    </div>
+                    <div class="compare_list ul-li-block">
+                        <ul>
+                            <li><i class="flaticon-right-arrow"></i> <span>generate & Capture Leads</span></li>
+                            <li><i class="flaticon-right-arrow"></i> <span>Offer Support</span></li>
+                            <li><i class="flaticon-right-arrow"></i> <span>Real Time Analytics</span></li>
+                        </ul>
+                        <div class="compare_btn text-center">
+                            <a href="#">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <div class="compare_img relative-position">
+                    <div class="com_img zooming">
+                        <img src="Content/gallaryImage/logo2.png" />
+                    </div>
+                    <div class="img_shape">
+                        <span class="compare_shape1" data-parallax='{"x" : -40}'><img src="Content/assets/img/saas-m/featured/c-shape1.png" alt=""></span>
+                        <span class="compare_shape2" data-parallax='{"x" : 40}'><img src="Content/assets/img/saas-m/featured/c-shape2.png" alt=""></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of compare section
+    ============================================= -->
+<!-- Start of compare section
+       ============================================= -->
+<section id="compare-2" class="compare_section compare_section_two">
+    <div class="container">
+        <div class="compare_content_item">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_img relative-position">
+                        <div class="com_img zooming">
+                            @*<img src="assets/img/saas-m/featured/comp2.png" alt="">*@
+                            <img src="~/Content/gallaryImage/logo1.png" />
+
+                        </div>
+                        <div class="img_shape">
+                            <span class="compare_shape1" data-parallax='{"x" : -40}'><img src="Content/assets/img/saas-m/featured/c-shape3.png" alt=""></span>
+                            <span class="compare_shape2" data-parallax='{"x" : 40}'><img src="Content/assets/img/saas-m/featured/c-shape.png" alt=""></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_content">
+                        <div class="compare_title saas-modern-headline pera-content">
+                            <h2>
+                                Whatsapp Chatbot
+                            </h2>
+                        </div>
+                        <div class="compare_list ul-li-block">
+                            <ul>
+                                <li><i class="flaticon-right-arrow"></i> <span>You need to know which features are most valuable by tracking the defining characteristics of each person.</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span> Your customers are people, not website sessions</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span> And your business depends on people coming back again and again as you want.</span></li>
+                            </ul>
+                            <div class="compare_btn text-center">
+                                <a href="#">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of compare section
+    ============================================= -->
+<!-- Start of compare section
+      ============================================= -->
+<section id="compare-1" class="compare_section">
+    <div class="container">
+        <div class="compare_content_item">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_content">
+                        <div class="compare_title saas-modern-headline pera-content">
+                            <h2>
+                                Keyword - Based Flow
+                            </h2>
+                            <p>Design Chat Flow Based On Keyword and Increase ROI.</p>
+                        </div>
+                        <div class="compare_list ul-li-block">
+                            <ul>
+                                <li><i class="flaticon-right-arrow"></i> <span>Marketing Camoaigns</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span>Custom Flows</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span>Personalization</span></li>
+                            </ul>
+                            <div class="compare_btn text-center">
+                                <a href="#">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_img relative-position">
+                        <div class="com_img zooming">
+                            @*<img src="assets/img/saas-m/featured/comp1.png" alt="">*@
+                            <img src="Content/gallaryImage/logo4.png" />
+                        </div>
+                        <div class="img_shape">
+                            <span class="compare_shape1" data-parallax='{"x" : -40}'><img src="Content/assets/img/saas-m/featured/c-shape1.png" alt=""></span>
+                            <span class="compare_shape2" data-parallax='{"x" : 40}'><img src="Content/assets/img/saas-m/featured/c-shape2.png" alt=""></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of compare section
+    ============================================= -->
+<!-- Start of compare section
+       ============================================= -->
+<section id="compare-2" class="compare_section compare_section_two">
+    <div class="container">
+        <div class="compare_content_item">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_img relative-position">
+                        <div class="com_img zooming">
+                            @*<img src="assets/img/saas-m/featured/comp2.png" alt="">*@
+                            <img src="~/Content/gallaryImage/logo3.png" />
+                        </div>
+                        <div class="img_shape">
+                            <span class="compare_shape1" data-parallax='{"x" : -40}'><img src="Content/assets/img/saas-m/featured/c-shape3.png" alt=""></span>
+                            <span class="compare_shape2" data-parallax='{"x" : 40}'><img src="Content/assets/img/saas-m/featured/c-shape.png" alt=""></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="compare_content">
+                        <div class="compare_title saas-modern-headline pera-content">
+                            <h2>
+                                Work Flow Notifications
+                            </h2>
+                        </div>
+                        <div class="compare_list ul-li-block">
+                            <ul>
+                                <li><i class="flaticon-right-arrow"></i> <span>User Authentication</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span>Notification</span></li>
+                                <li><i class="flaticon-right-arrow"></i> <span>Remainders</span></li>
+                            </ul>
+                            <div class="compare_btn text-center">
+                                <a href="#">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of compare section
+    ============================================= -->
+<section id="em-banner" class="em-banner-section" data-background="Content/assets/img/email-market/banner/b1.jpg">
+    <div class="container">
+        <div class="em-banner-content text-center em-headline pera-content">
+            <div class="em-banner-text">
+                <h1>
+                    A better way to communicate
+                    with clients
+                </h1>
+                <p>Mailbird includes multiple unique layouts to match your style and the way you work.</p>
+            </div>
+            <div class="em-banner-img wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                @*<img src="Content/assets/img/email-market/banner/c-mail.png" alt="">*@
+                <img src="~/Content/gallaryImage/logo6.png" />
+            </div>
+        </div>
+    </div>
+    <script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
+</section>

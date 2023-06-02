@@ -1,0 +1,141 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+body {
+    background: #eee;
+    background-color: #21232d;
+}
+
+.heading {
+    color: #444;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 15px;
+    align-items: flex-start;
+    padding: 5px 5%;
+}
+
+    .container .mainvideo {
+        /*background: #fff;*/
+        border-radius: 5px;
+        padding: 10px;
+        background-color: #21232d;
+    }
+
+        .container .mainvideo video {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .container .mainvideo .title {
+            color: white;
+            font-size: 23px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+
+    .container .videolist {
+        /*background: #fff;*/
+        border-radius: 5px;
+        height: 585px;
+        overflow-y: scroll;
+        background-color: #21232d;
+    }
+
+        .container .videolist::-webkit-scrollbar {
+            width: 7px;
+        }
+
+        .container .videolist::-webkit-scrollbar-track {
+            background-color: #ccc;
+            border-radius: 50px;
+        }
+
+        .container .videolist::-webkit-scrollbar-thumb {
+            background-color: #666;
+            border-radius: 50px;
+        }
+
+        .container .videolist .vid video {
+            width: 100px;
+            border-radius: 5px;
+            /*background: white;*/
+        }
+
+        .container .videolist .vid {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            /*background: #f7f7f7;*/
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            /*border: 1px solid rgba(0,0,0.1);*/
+            cursor: pointer;
+            background-color: #21232d;
+        }
+
+            .container .videolist .vid:hover {
+                /*background-color: #eee;*/
+                color: black;
+                background-color:grey;
+            }
+
+            .container .videolist .vid.active {
+                background: grey;
+             
+            }
+
+                .container .videolist .vid.active .title {
+                    /*color: #fff;*/
+                    color: greenyellow;
+                }
+
+            .container .videolist .vid .title {
+                /*color: #333;*/
+                font-size: 17px;
+                color: white;
+            }
+
+                .container .videolist .vid .title:hover {
+                    /*color: black;*/
+                }
+
+.home {
+    height: 2.5rem;
+    width: 6rem;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    position: fixed;
+    left: 0;
+    cursor: pointer;
+    border-radius: 5px;
+    top: 0;
+    font-size: 0.8rem;
+}
+
+@media (max-width:991px) {
+    .container {
+        grid-template-columns: 2fr 1fr;
+        padding: 10px;
+    }
+}
+
+@media (max-width:768px) {
+    .container {
+        grid-template-columns: 1fr;
+        padding: 10px;
+    }
+}

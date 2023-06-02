@@ -1,0 +1,519 @@
+﻿
+.str-about-section .str-about-content .str-progress-area .barfiller .fill1 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    /*changed*/
+    background: rgb(22, 181, 151);
+    animation-name: progressbar1;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes progressbar1 {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 260px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .fill2 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    background: rgb(22, 181, 151);
+    animation-name: progressbar2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes progressbar2 {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 265px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .fill3 {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient(125deg, #6407c1 0%, #324add 49%, #008df9 100%) !important;
+    background: rgb(22, 181, 151);
+    animation-name: progressbar3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes progressbar3 {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 270px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tipWrap {
+    /*changed*/
+    display: inline;
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip1 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    /*chnaged*/
+    /*left: 193.5px;*/
+    /*transition: left 3s ease-in-out 0s;*/
+    animation-name: tip1;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tip1 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 260px;
+    }
+}
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip2 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    animation-name: tip2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tip2 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 265px;
+    }
+}
+
+
+.str-about-section .str-about-content .str-progress-area .barfiller .tip3 {
+    left: 0px;
+    z-index: 2;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 4px;
+    background: #333;
+    margin-top: -30px;
+    position: absolute;
+    font-family: "Poppins";
+    animation-name: tip3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tip3 {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 270px;
+    }
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6 {
+    height: 5rem;
+    width: 5rem;
+}
+
+#gallary-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -12rem;
+    opacity: 1;
+}
+
+#view {
+    margin-top: 3rem;
+    height: 35rem;
+    width: 60rem;
+    border-radius: 10px;
+}
+
+#login-link-pos {
+    width: 7rem;
+    height: 1.7rem;
+    border: 2px solid white;
+    margin-top: -3rem;
+    border-radius: 15px;
+    background-color: #f26322;
+    text-align: center;
+}
+
+#login-li-a {
+    width: 10rem;
+    height: 1.7rem;
+}
+
+#login-link-pos:hover {
+    cursor: pointer;
+}
+
+#hire {
+    color: white;
+}
+
+#sa-contact-page1 {
+    background: url('/Content/assets/img/digital_f/bg/bn-bg2.png');
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#form1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-sign {
+    margin-top: 3rem;
+    color: #f26322;
+    margin-left: 19.5rem;
+    font-weight: bolder;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 5rem;
+}
+
+.forgot-password {
+    color: black;
+}
+
+#submit-btn {
+    margin-top: 10px;
+}
+
+#saasio-breadcurmb-contact {
+    background-image: url('/Content/gallaryImage/gallary-image8.png');
+}
+
+#saasio-breadcurmb-services {
+    background-image: url('/Content/gallaryImage/gallary-image9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#saasio-breadcurmb-about {
+    background-image: url('/Content/gallaryImage/gallary-image10.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.xis-dia-service-inner-item {
+    height: 18rem;
+}
+
+.skill-set-percent {
+    width: 30rem;
+}
+
+.xis-dia-about-counter-content {
+    margin-top: 15rem;
+}
+
+#forget-pass, #sign-up {
+    color: blue;
+}
+
+.scrollup {
+    left: 3%;
+    bottom: 3%;
+}
+.team-image{
+    height:30rem;
+}
+
+.login-form {
+    margin-top: 3rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 15px black;
+    height: 30rem;
+    opacity: 0.9;
+    background-color: white;
+}
+
+#submit-btn {
+    height: 3rem;
+    width: 8rem;
+    border-radius: 1rem;
+    background-color: #f26322;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-input {
+    background-color: white;
+    border-radius: 1rem;
+}
+
+::placeholder {
+    color: black;
+    font-weight: bolder;
+}
+
+#showpassword {
+    color: white;
+    height: 10px;
+    width: 5rem;
+    font-size: 10px;
+}
+
+.service_content_box {
+    height: 20rem;
+}
+
+.s2-pricing_item {
+    height: 35rem;
+}
+
+.mobile-main-navigation {
+    margin-left: 1rem;
+}
+
+.aplpg-mobile-mockup {
+    margin-top: 5rem;
+}
+
+.aplpg-pera-txt {
+    color: white;
+    font-size: 1rem;
+}
+
+.aplpg-headline {
+    color: white;
+    font-weight: bolder;
+    font-size: 10rem;
+}
+
+.dotplus-logo {
+    height: 2rem;
+    width: 4rem;
+}
+
+.xis-dia-service-icon {
+    height: 8rem;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+    margin-top: -1rem;
+}
+
+
+#gallary-logo {
+    height: 5rem;
+    width: 10rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+.blog-breadcrumb {
+    background-image: url('/Content/gallaryImage/Blog.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.faculties-background {
+    background-image: url('/Content/gallaryImage/Faculties2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.management-img {
+    height: 25rem;
+    width: 45rem;
+    margin-left: 15rem;
+}
+
+.management-img-container {
+    margin-left: 25rem;
+    margin-top: 5rem;
+}
+
+.indexImg1 {
+    height: 50rem;
+    width: 70rem;
+    margin-top: -4rem;
+    filter: drop-shadow(1px 1px 3px white);
+    margin-left: 5rem;
+}
+
+.indexImg2 {
+    margin-top: -15rem;
+    margin-left: 8rem;
+    filter: saturate(5px);
+    height: 70rem;
+    width: 40rem;
+}
+
+.indexImg1-container {
+    margin-left: 20rem;
+    width: 70rem;
+}
+
+.laptop-image {
+    height: 30rem;
+    width: 40rem;
+    margin-left: 45rem;
+    margin-top: -18rem;
+}
+
+.laptop-image-container {
+    height: 30rem;
+    width: 40rem;
+    margin-left: -3rem;
+}
+
+.dot {
+    margin-left: -4rem;
+}
+
+.management-img {
+    height: 30rem;
+    width: 40rem;
+    margin-top: -8rem;
+}
+
+.management-img-container {
+    height: 30rem;
+    width: 40rem;
+    margin-left: -3rem;
+}
+
+.dot-management {
+    margin-right: 3rem;
+}
+
+.bot-image-banner-container {
+    height: 55rem;
+}
+
+#bot-image-banner {
+    margin-left: 45rem;
+    margin-top: -23rem;
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+.mobile-image {
+    margin-left: 55rem;
+    margin-top: -18rem;
+    height: 30rem;
+    width: 30rem;
+}
+#join-group {
+    margin-top: -35rem;
+    border: 2px solid white;
+    background:repeating-linear-gradient(170deg,green, lightgreen);
+    font-weight:bolder;
+    border-radius:15px;
+    width:10rem;
+}
+#join-group:hover{
+    color:orangered;
+}
+.index-heading{
+    margin-top:-5rem;
+}
+#whatsapp-input{
+    width:20rem;
+    color:black;
+    border-radius:5px;
+
+}
+.getlink {
+    color: white;
+    font-weight: bolder;
+    background: repeating-linear-gradient(170deg,green, lightgreen);
+    border-radius:15px;
+    width:10rem;
+}
+.getlink:hover{
+    color:orangered;
+}
+#exampleModalLabel{
+    color:black;
+    font-weight:bolder;
+}
+.whatsapp-bot-popup{
+    
+    border-radius:15px;
+    margin-top:15rem;
+  
+}
+#exampleModal{
+    backdrop-filter:blur(5px);
+}
+@media screen and (max-width:600px) {
+    .up {
+        display: none;
+    }
+
+    .index-features {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .index-img-container {
+        margin-left: 27%;
+    }
+
+    .index-text-uppercase {
+        display: none;
+    }
+}

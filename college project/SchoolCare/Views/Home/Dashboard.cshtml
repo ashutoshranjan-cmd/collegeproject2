@@ -1,0 +1,113 @@
+﻿
+@{
+    Layout = null;
+    
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Dashboard - SchoolCare</title>
+    <link rel="shortcut icon" href="~/Content/assets/C_Image/sc-favicon.png" type="image/x-icon">
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/Content/customcss/dashboardcss.css">
+</head>
+<body>
+    <div class="grid-container">
+        <aside id="sidebar">
+            <div class="sidebar-title">
+                <div class="sidebar-brand">
+                    <img src="~/Content/assets/C_Image/school-care-p.png?width=120" alt="SchoolCare" title="SchoolCare" />
+                </div>
+            </div>
+
+            <ul class="sidebar-list">
+                <li class="sidebar-list-item">
+                    <a href="/Profile1" @*onclick="location.reload()"*@target="viewiframe">
+                        <span class="material-icons-outlined">dashboard</span> Profile
+                    </a>
+
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="/Payment" target="viewiframe">
+                        <span class="material-icons-outlined">inventory_2</span> Fee Payment
+                    </a>
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="/Error" target="viewiframe">
+                        <span class="material-icons-outlined">fact_check</span> Payment History
+                    </a>
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="/Admitcard"    target="viewiframe">
+                        <span class="material-icons-outlined">add_shopping_cart</span> Admit Card
+                    </a>
+                </li>
+                @*<li class="sidebar-list-item">
+                    <a href="/Error" target="viewiframe">
+                        <span class="material-icons-outlined">add_shopping_cart</span> Result
+                    </a>
+                </li>*@
+                <li class="sidebar-list-item">
+                    <a href="/Routine" target="viewiframe">
+                        <span class="material-icons-outlined">add_shopping_cart</span> Class Routine
+                    </a>
+                </li>
+                @*<li class="sidebar-list-item">
+                    <a href="#" target="_blank">
+                        <span class="material-icons-outlined">shopping_cart</span> Study Materials
+                    </a>
+                </li>*@
+                <li class="sidebar-list-item">
+                    <a href="/Lectures" target="viewiframe">
+                        <span class="material-icons-outlined">poll</span> Lectures
+                    </a>
+                </li>
+                @*<li class="sidebar-list-item">
+                    <a href="#" target="_blank">
+                        <span class="material-icons-outlined">poll</span> Notification
+                    </a>
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="#" target="_blank">
+                        <span class="material-icons-outlined">poll</span> Attendance
+                    </a>
+                </li>*@
+                <li class="sidebar-list-item">
+                    <a href="/Logout" onclick="preventback()"target="">
+                        <span class="material-icons-outlined">settings</span> Log out
+                    </a>
+                </li>
+            </ul>
+        </aside>
+        <!-- End Sidebar -->
+        <!-- Main -->
+        @*<main class="main-container">*@
+        
+            <iframe id="frame-view" name="viewiframe" src="/Profile1"  frameborder="0"></iframe>
+   
+        @*</main>*@
+        <!-- End Main -->
+
+    </div>
+
+    <!-- Scripts -->
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+    <!-- Custom JS -->
+    <script src="~/Scripts/customscripts/dashboardjs.js"></script>
+    <script>
+        function preventBack() { window.history.forward() }
+        setTimeout("preventBack()", 0);
+        window.onunload = function () { null };
+    </script>
+</body>
+</html>
